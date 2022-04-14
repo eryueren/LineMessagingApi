@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31112.23
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineMessaging", "LineMessaging\LineMessaging.csproj", "{E29CA3D3-93B1-491C-8C5B-08372A974A18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LineMessaging.Core", "LineMessaging\LineMessaging.Core.csproj", "{E29CA3D3-93B1-491C-8C5B-08372A974A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineMessaging.Test", "LineMessaging.Test\LineMessaging.Test.csproj", "{A9002F12-987D-41F0-BB80-917E182CBDAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LineMessaging.Core.Test", "LineMessaging.Test\LineMessaging.Core.Test.csproj", "{A9002F12-987D-41F0-BB80-917E182CBDAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
