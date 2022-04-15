@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LineMessaging
+namespace  LineMessaging.Core
 {
     internal static class DictionaryExtensions
     {

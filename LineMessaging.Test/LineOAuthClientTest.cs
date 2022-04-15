@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Xunit;
 
-namespace LineMessaging.Test
+namespace  LineMessaging.Core.Test
 {
     public class LineOAuthClientTest
     {

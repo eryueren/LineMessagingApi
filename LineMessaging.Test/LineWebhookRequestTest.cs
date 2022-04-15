@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace LineMessaging.Test
+namespace  LineMessaging.Core.Test
 {
     public class LineWebhookRequestTest
     {

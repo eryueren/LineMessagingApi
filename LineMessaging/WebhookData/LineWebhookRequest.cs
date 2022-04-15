@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 
-namespace LineMessaging
+namespace  LineMessaging.Core
 {
     public class LineWebhookContent
     {

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace LineMessaging
+namespace  LineMessaging.Core
 {
     public class LineVideoMessage : ILineMessage
     {

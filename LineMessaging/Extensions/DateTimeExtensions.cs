@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LineMessaging
+namespace  LineMessaging.Core
 {
     internal static class DateTimeExtensions
     {

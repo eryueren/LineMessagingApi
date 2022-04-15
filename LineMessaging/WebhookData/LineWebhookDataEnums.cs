@@ -2,7 +2,7 @@
 using Newtonsoft.Json.Converters;
 using System.Runtime.Serialization;
 
-namespace LineMessaging
+namespace  LineMessaging.Core
 {
     [JsonConverter(typeof(StringEnumConverter))]
     public enum WebhookRequestEventType

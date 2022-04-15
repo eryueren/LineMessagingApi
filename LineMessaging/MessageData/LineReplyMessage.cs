@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace LineMessaging
+namespace  LineMessaging.Core
 {
     public class LineReplyMessage
     {

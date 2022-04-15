@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using Newtonsoft.Json;
 
-namespace LineMessaging
+namespace  LineMessaging.Core
 {
     public class LineErrorResponse
     {

@@ -7,7 +7,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LineMessaging
+namespace LineMessaging.Core
 {
     public class LineWebhookRequest
     {
